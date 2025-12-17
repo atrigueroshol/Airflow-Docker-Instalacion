@@ -2,6 +2,8 @@
 
 Apache Airflow es una plataforma de **orquestación de flujos de trabajo** que permite programar, monitorizar y gestionar tareas complejas de manera eficiente. Este documento está diseñado para guiarte paso a paso en la **instalación y ejecución de Airflow usando Docker y Docker Compose** en WINDOWS.
 
+Documentación oficial [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
+
 # Requisitos
 Tener instalado Docker y Docker Compose. Lo podemos verificar en la shell
 
@@ -63,3 +65,5 @@ Una vez terminado ya podemos acceder a la interfaz gráfica de airflow en local 
 [http://localhost:8080/](http://localhost:8080/)
 
 El usuario y la contraseña es **airflow**
+
+
